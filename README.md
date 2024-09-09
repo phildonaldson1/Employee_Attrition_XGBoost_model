@@ -1,12 +1,14 @@
 The employee attrition project was performed using the XGBoost model
-# Project Title
+# Project Title: Predictive modeling of Employee Attrition
 
-# Quickstart/Demo
+# Description
+This project was completed as part of the Google Advanced Analytics Course offered through Coursera.
+
 
 # Table of Contents
 
 - [Project Title](#project-title)
-- [Quickstart/Demo](#quickstartdemo)
+- [Description](#description)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,6 +17,8 @@ The employee attrition project was performed using the XGBoost model
 - [License](#license)
 
 # Installation
+The modeling uses the **HR_capstone_dataset.csv** file
+The dataset can also be found on [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)   
 [(Back to top)](#table-of-contents)
 
 # Usage
