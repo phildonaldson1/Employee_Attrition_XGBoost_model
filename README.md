@@ -3,7 +3,8 @@ The employee attrition project was performed using the XGBoost model
 
 # Description
 This project was completed as part of the Google Advanced Analytics Course offered through Coursera.
-The aim of the anaysis was to predict whether an employee would leave the company based on a set of variables asscoiated with employyee performance, workload, salary and satisfaction etc.
+The aim of the analysis was to predict whether an employee would leave the company based on a set of variables asscoiated with employee performance, workload, salary and satisfaction etc.
+
 I chose to use the XGBoost model as it requires relatively few data assumptions and is robust with collinear data.
 
 # Table of Contents
