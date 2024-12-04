@@ -22,6 +22,7 @@ I chose to use the XGBoost model as it requires relatively few data assumptions 
 The modeling uses the `HR_capstone_dataset.csv` file.  
 The dataset can also be found on [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) or [here](https://github.com/phildonaldson1/Employee_Attrition_XGBoost_model/blob/main/data/HR_capstone_dataset.csv) 
 [(Back to top)](#table-of-contents)
+The code and analysis can be found in the Jupyter notebook, located in the `notebooks` folder.
 
 # Dataset
 [(Back to top)](#dataset)
